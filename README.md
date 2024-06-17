@@ -2,7 +2,8 @@
 
 This project utilizes the MediaPipe library to recognize and count the number of fingers raised in front of a webcam in real-time. It leverages MediaPipe's Hand Landmarks model to detect hand positions and draw landmarks on the image frames captured from the webcam.
 
-![Hand Gesture Recognition](Capture%20d%E2%80%99%C3%A9cran%202024-06-17%20190334.png)
+![Hand Gesture Recognition]([Capture%20d%E2%80%99%C3%A9cran%202024-06-17%20190334.png](https://github.com/seifeddinerezgui/two-hands-fingers-counter/assets/92888041/25d73a6c-8b13-4552-9dc7-1e435d03aa27)
+
 
 ## Features
 
